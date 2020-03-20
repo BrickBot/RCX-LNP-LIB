@@ -1,0 +1,6 @@
+LIBRARY 		RCXLIB
+DESCRIPTION 	"RCXLIB RCX library"
+
+EXPORTS
+	SendToRCX		@1
+	GetFromRCX		@2
